@@ -6,7 +6,7 @@ Toolkit en **Python** para construir y analizar **redes de pases** a partir de u
 
 ---
 
-## ✨ Características
+##  Características
 
 - Construcción de **red de pases** (dirigida y ponderada, peso = nº de pases).
 - **Detección de comunidades** (Louvain) + visualización por clúster.
